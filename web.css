@@ -1,0 +1,37 @@
+.head1{
+      font-size: 40%;
+      text-align: center;
+      
+
+}
+.col:hover {
+      -ms-transform: scale(1.5); /* IE 9 */
+      -webkit-transform: scale(1.1); /* Safari 3-8 */
+      transform: scale(1.1); 
+    }
+.row{
+border: 1px solid black;
+padding-left: 180px;
+padding-right: 180px;
+}
+
+.main{
+      padding-top: 50px;
+      padding-bottom: 20px;
+      background-color: rgb(227, 230, 216);
+      
+}
+.footer{
+      background-color: rgb(69, 65, 65);
+      color:rgb(230, 230, 230);
+      padding-top: 40px;
+      padding-bottom: 40px;
+}
+
+.last{
+      background-color: rgb(33, 30, 30);
+      color: rgb(237, 237, 237);
+      padding-top:20px;
+      padding-bottom: 10px;
+      
+}
